@@ -1,0 +1,25 @@
+.input-wrapper {
+  color: var(--gray);
+  text-align: start;
+}
+
+.input-wrapper .input-content {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-wrapper .input-content input {
+  background-color: var(--gray-bg);
+  border-radius: 8px 0 0 8px;
+  border: none;
+  padding: 12px 0 12px 20px;
+  width: 100%;
+}
+
+.input-wrapper .input-content .icon {
+  background-color: var(--purple);
+  padding: 8px;
+  border-radius: 0 8px 8px 0;
+}

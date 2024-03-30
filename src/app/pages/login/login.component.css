@@ -1,0 +1,19 @@
+form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-bottom: 36px;
+}
+
+form .img-icon {
+  height: 20px;
+}
+
+form span {
+  text-align: end;
+  font-size: 14px;
+  color: var(--blue);
+  cursor: pointer;
+  text-decoration: underline;
+}

@@ -1,11 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap");
 
+@import "ngx-toastr/toastr";
+
 :root {
   --black: #000;
   --gray: #555;
   --purple: #7001fd;
   --blue: #1e2772;
   --light-gray: #c2c2c2;
+  --gray-bg: #f1f3f6;
 }
 
 * {

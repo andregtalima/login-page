@@ -89,6 +89,10 @@
     rgba(148.23004603385925, 64.33935597538948, 255, 0.20000000298023224);
 }
 
+.main-page .section-form .btn-primary:disabled {
+  opacity: 0.6;
+}
+
 .main-page .section-form .btn-secondary {
   border: 2px solid var(--purple);
   color: var(--purple);
